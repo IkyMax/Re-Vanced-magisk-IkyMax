@@ -1,8 +1,8 @@
-2022-08-25
+2022-08-26
   
 CLI: revanced-cli-2.10.2-all.jar  
-Integrations: app-release-unsigned-v0.36.2.apk  
-Patches: revanced-patches-2.42.0.jar  
+Integrations: app-release-unsigned-v0.36.3.apk  
+Patches: revanced-patches-2.42.1.jar  
 [Patches Changelog](https://github.com/revanced/revanced-patches/releases/latest)  
 
 YouTube version: 17.32.35  
@@ -17,5 +17,5 @@ downloaded from: [APKMirror - Twitter](https://www.apkmirror.com/apk/twitter-inc
 Reddit version: 2022.31.1  
 downloaded from: [APKMirror - Reddit](https://www.apkmirror.com/apk/redditinc/reddit/reddit-2022-31-1-release/reddit-2022-31-1-android-apk-download/)  
 
-TikTok version: 25.9.2  
-downloaded from: [APKMirror - TikTok](https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok/tik-tok-25-9-2-release/tiktok-25-9-2-3-android-apk-download/)  
+TikTok version: 25.9.3  
+downloaded from: [APKMirror - TikTok](https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok/tik-tok-25-9-3-release/tiktok-25-9-3-3-android-apk-download/)  
